@@ -17,6 +17,8 @@ But trust me!!!
 
 It's the last tutorial you have to read for understanding behind the scene inside the AI/Neural Network.
 
+**Just Click onceyourInside the SimpleEnough.ipynb `open in colab` which will directly takes you to the code editor**
+
 And thanksForReading 💘
 If you find it usefull just share it with your amazing community/friends.
 🤗
