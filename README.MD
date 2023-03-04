@@ -11,7 +11,7 @@ How ? Isn't there a complicated math involved in the Neural network (AI👨‍�
 
 First it's so easy that `Even your toaster could become an AI with this python code`
 
-I know you probabily heard it litterly thousand times by now 
+I know you probably heard it literally thousand times by now 
 
 But trust me!!!
 
